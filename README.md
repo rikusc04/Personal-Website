@@ -1,7 +1,6 @@
 ## Personal Website
 
-To view my website, click on the following link:
-    https://riku-santa-cruz-personal-website.vercel.app
+To view my website, click on the following link: https://riku-santa-cruz-personal-website.vercel.app
 
 This is my personal website, created using **React**, **Vite**, and **Tailwind CSS**. The website is broken down into 5 sections:
 
