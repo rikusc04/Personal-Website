@@ -18,7 +18,7 @@ The website is broken down into 5 sections:
 
 
 How to run:
-Note: This repository contains the source code for my personal portfolio website. You’re welcome to clone and explore it locally, but the deployed version serves as my personal website
+Note that this repository contains the source code for my personal portfolio website. You’re welcome to clone and explore it locally, but the deployed version serves as my personal website
 
 Step 1:
   - Clone the repository:
