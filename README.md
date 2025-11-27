@@ -1,16 +1,42 @@
-# React + Vite
+# Personal Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal website, created using React, Vite, and Tailwind CSS.
+The website is broken down into 5 sections:
+1) Home:
+  - This section has an introduction to who I am and what I do, giving visitors a quick overview of my background and the kinds of software engineering work I focus on
+2) About:
+  - This section goes a little bit deeper into my experiences, interests, and skills. 
 
-Currently, two official plugins are available:
+3) Skills:
+  - This section includes the languages, tools, frameworks, and platforms I work with. This includes frontend, backend, DevOps, and cloud technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4) Projects:
+  - This section includes some of the projects I've worked on, each with a short description and a link to the GitHub Repository
 
-## React Compiler
+5) Contact:
+  - This section contains some ways to reach me, including my LinkedIn and my Gmail
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+How to run:
+Note: This repository contains the source code for my personal portfolio website. You’re welcome to clone and explore it locally, but the deployed version serves as my personal website
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Step 1:
+  - Clone the repository:
+      git clone <repository-url>
+
+Step 2:
+  - Navigate to the project directory:
+      cd Personal-Website
+
+Step 3:
+  - Install project dependencies:
+      cd Personal-Website
+
+Step 4:
+  - Run the development server locally:
+      npm run dev
+
+Step 5:
+  - After runing, Vite will generally show a local development URL
+  - An example URL can look like this:
+      http://localhost:5173
