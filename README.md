@@ -13,10 +13,8 @@ This is my personal website, created using **React**, **Vite**, and **Tailwind C
 * **5) Contact:**
     * This section contains some ways to reach me, including my LinkedIn and my Gmail.
 
----
 
-## How to Run:
-
+How to Run:
 Note that this repository contains the source code for my personal portfolio website. You’re welcome to clone and explore it locally, but the deployed version serves as my personal website.
 
 1.  **Clone the repository:**
@@ -31,11 +29,10 @@ Note that this repository contains the source code for my personal portfolio web
     ```bash
     npm install
     ```
-    *(Note: I corrected `cd Personal-Website` to `npm install` in this step, as that's the command needed to install dependencies)*
 4.  **Run the development server locally:**
     ```bash
     npm run dev
     ```
 5.  **View the site:**
-    * After running, Vite will generally show a local development URL.
+    * After running, Vite will generally show a local development URL
     * An example URL can look like this: `http://localhost:5173`
