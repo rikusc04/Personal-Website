@@ -45,7 +45,7 @@ export const ProjectsSection = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
                     {projects.map((project) => (
                         <div key={project.id} className="group bg-card rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 border border-border/40 flex flex-col">
-                            <div className="h-48 overflow-hidden bg-muted flex-shrink-0">
+                            <div className="h-48 overflow-hidden bg-muted flex-shrink-0 py-4">
                                 <img src={project.image} alt={`Screenshot of ${project.title} project`} className="w-full h-full object-contain transition-transform duration-500 group-hover:scale-110"/>
                             </div>
                             <div className="p-6 flex flex-col flex-grow">
