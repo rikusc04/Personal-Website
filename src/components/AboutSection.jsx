@@ -10,7 +10,7 @@ export const AboutSection = () => {
                 <div className="space-y-6">
                     <h3 className="text-2xl font-semibold">Software Engineer</h3>
                     <p className="text-muted-foreground">
-                        I am a senior at NYU studying Computer Science, with a minor in Math.
+                        I am a senior at NYU studying Computer Science, with a minor in Mathematics.
                         During my four years, I’ve gained hands-on experience as a 2x SWE intern at Microsoft, 
                         contributing to building systems and tools used by billions of users every day.
                     </p>
