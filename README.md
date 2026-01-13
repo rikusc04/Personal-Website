@@ -16,7 +16,7 @@ This is my personal website, created using **React**, **Vite**, and **Tailwind C
     * This section contains some ways to reach me, including my LinkedIn and my Gmail.
 
 
-How to Run:
+# How to Run:
 Note that this repository contains the source code for my personal portfolio website. You’re welcome to clone and explore it locally, but the deployed version serves as my personal website.
 
 1.  **Clone the repository:**
